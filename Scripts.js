@@ -5,7 +5,7 @@ const dataTalleres = [
     categoria: "Información",
     sede: "paloquemao",
     color: "#39A900",
-    imagen: "", 
+    imagen: "IMG/1.jpeg", 
     horario: "Infórmate sobre todos los talleres",
     link: "https://chat.whatsapp.com/DickSKFJERoD8q3OvwV38C",
     estado: "abierto"
