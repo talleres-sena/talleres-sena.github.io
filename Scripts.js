@@ -35,7 +35,7 @@ const dataTalleres = [
     categoria: "Bienestar",
     sede: "paloquemao",
     color: "#728156",
-    imagen: "IMG/YOGA.png",
+    imagen: "IMG/Poster club de yogaadasdasdasd.png",
     horario: "Martes de 9 am a 11 am",
     link: "https://chat.whatsapp.com/L3aNUCYH1X59o9L7ZJhO9Q",
     estado: "abierto"
